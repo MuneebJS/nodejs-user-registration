@@ -1,0 +1,30 @@
+{
+  "local":{
+    "username": "root",
+    "password": "",
+    "database": "canddt_development_user_registration",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "development": {
+    "username": "dev",
+    "password": "D<%v&$",
+    "database": "dev_user_registration",
+    "host": "52.215.24.252",
+    "dialect": "mysql"
+  },
+  "staging": {
+    "username": "staging",
+    "password": "$t@G!ng",
+    "database": "staging_user_registration",
+    "host": "52.215.24.252",
+    "dialect": "mysql"
+  },
+  "production":{
+	  "username": "production",
+    "password": "P0r@D$t!0N",
+    "database": "prod_user_registration",
+    "host": "52.215.24.252",
+    "dialect": "mysql"
+  }
+}
